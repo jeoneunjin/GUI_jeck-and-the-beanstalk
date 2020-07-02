@@ -10,8 +10,7 @@
 시작 화면 :
 ----------------
 처음 화면은 사진과 같이 잭과 콩나무 배경과 play 버튼이 나옵니다.
-![startback](https://user-images.githubusercontent.com/67683170/86304381-a3810e80-bc49-11ea-9d0b-e07ffc305554.png)
-
+![image](https://user-images.githubusercontent.com/67683170/86304472-e216c900-bc49-11ea-8678-4eff46ee2778.png)
 > play!가 적혀 있는 초록색 버튼을 누르면 stage 1의 규칙으로 넘어갑니다.
 
 게임 규칙 화면 :
