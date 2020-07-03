@@ -21,6 +21,7 @@
 <img width = "200" src ="https://user-images.githubusercontent.com/67683170/86442394-b3334c80-bd48-11ea-8fbe-bce9abe9c039.jpg">
 </div>
 > 마우스가 버튼 위에 위치해 있을 때 버튼의 색이 밝은 초록색으로 변합니다.
+
 > play!가 적혀 있는 초록색 버튼을 누르면 게임 설명 화면으로 넘어갑니다.
 
 2.게임 설명 화면 :
@@ -37,11 +38,28 @@
 4.게임 플레이:
 ----------
 <div>
-![image](https://user-images.githubusercontent.com/67683170/86441021-7ebe9100-bd46-11ea-9a5f-b422035133b6.png)
- 
+<img width ="400" src = "https://user-images.githubusercontent.com/67683170/86441021-7ebe9100-bd46-11ea-9a5f-b422035133b6.png">
+<img width ="400" src ="https://user-images.githubusercontent.com/67683170/86443513-559fff80-bd4a-11ea-831e-3d7fec742de4.png" > 
 </div>
-> 플레이 중 사진입니다. 제한 시간은 20초로 설정했습니다.
-> 날아오는 장애물은 새와 거인이 던지는 돌입니다. 
-> 화면에서 장애물들이 사라지면 다른 랜덤한 곳에서 재생성됩니다. 
-> 잭은 위, 아래, 오른쪽, 왼쪽으로 이동할 수 있습니다. 
-> 
+
+> 플레이 중 사진입니다.
+
+<img src="https://user-images.githubusercontent.com/67683170/86443229-f3df9580-bd49-11ea-9e18-e30a074fba82.png">
+
++ 제한 시간은 20초로 설정했습니다.
+
++ 날아오는 장애물은 새와 거인이 던지는 돌입니다. 
+
++ 화면에서 장애물들이 사라지면 다른 랜덤한 곳에서 재생성됩니다. 
+
++ 잭은 위, 아래, 오른쪽, 왼쪽으로 이동할 수 있습니다. 
+
++ 잭이 보이는 화면보다 왼쪽 또는 오른쪽으로 갔을 때, 장애물과 부딪쳤을 때 게임오버 화면으로 넘어갑니다.
+
+4-1 잭의 움직임, 장애물의 움직임, timer:
+----------
+1. 잭의 움직임 :
+
+![image](https://user-images.githubusercontent.com/67683170/86444320-8af91d00-bd4b-11ea-9ddc-3322c85dc021.png)
+
+> 캐릭터가 실제로 움직여서 이동하는 것처럼 보이도록 구현하기 위해서 연속적인 모션의 그림을 그리고 해당 그림이 순서대로 화면에 출력되도록 코드를 작성하였다.
