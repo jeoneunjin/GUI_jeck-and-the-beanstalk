@@ -14,9 +14,9 @@
 
 1.시작 화면 : 
 ----------------
-창 이름 : 'jeck and the beanstalk'
++ 창 이름 : 'jeck and the beanstalk'
 
-처음 화면은 사진과 같이 잭과 콩나무 배경과 play 버튼이 나옵니다.
++ 처음 화면은 사진과 같이 잭과 콩나무 배경과 play 버튼이 나옵니다.
 ![image](https://user-images.githubusercontent.com/67683170/86304472-e216c900-bc49-11ea-8678-4eff46ee2778.png)
 <div>
 <img width = "200" src="https://user-images.githubusercontent.com/67683170/86442391-b29ab600-bd48-11ea-82f9-c6bf6b23bbf7.jpg">
@@ -63,6 +63,8 @@
 
 + 잭이 보이는 화면보다 왼쪽 또는 오른쪽으로 갔을 때, 장애물과 부딪쳤을 때 게임오버 화면으로 넘어갑니다.
 
++ 제한 시간 내에 게임오버가 되지 않는다면 게임성공 화면으로 넘어갑니다.
+
 4-1 잭의 움직임, 장애물의 움직임, timer:
 ----------
 1. 잭의 움직임 :
@@ -72,6 +74,7 @@
 > 캐릭터가 실제로 움직여서 이동하는 것처럼 보이도록 구현하기 위해서 연속적인 모션의 그림을 그리고 해당 그림이 순서대로 화면에 출력되도록 코드를 작성했습니다. 
 
 2. 장애물의 움직임 :
+
 ![image](https://user-images.githubusercontent.com/67683170/86444868-6487b180-bd4c-11ea-9e59-24d3cbaa66ad.png)
 
 > 새와 돌의 초기 위치입니다.
