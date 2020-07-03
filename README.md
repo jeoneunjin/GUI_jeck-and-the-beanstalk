@@ -14,6 +14,8 @@
 
 1.시작 화면 : 
 ----------------
+창 이름 : 'jeck and the beanstalk'
+
 처음 화면은 사진과 같이 잭과 콩나무 배경과 play 버튼이 나옵니다.
 ![image](https://user-images.githubusercontent.com/67683170/86304472-e216c900-bc49-11ea-8678-4eff46ee2778.png)
 <div>
