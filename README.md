@@ -1,4 +1,4 @@
-# final-project
+# Final-project_2020810067_전은진
 게임 프로그래밍 환경 : Visual Studio Code; Python 3.7(64-bit); Pygame 이용
 > 동일한 환경에서 실행해주세요 
 
@@ -9,7 +9,8 @@
 > 위 사진에 있는 파일이 모두 있어야 됩니다. 
 
 2. 같은 폴더 안에 저장이 되어 있다면, 이미지와 같은 파일(final project.py)을 열어 게임을 실행하면 됩니다.
-![image](https://user-images.githubusercontent.com/67683170/86303431-bd6d2200-bc46-11ea-9467-46e420c55a82.png)
+
+<src ="https://user-images.githubusercontent.com/67683170/86303431-bd6d2200-bc46-11ea-9467-46e420c55a82.png">
 
 1.시작 화면 : 
 ----------------
