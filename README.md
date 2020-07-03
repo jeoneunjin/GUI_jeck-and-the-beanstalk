@@ -10,7 +10,7 @@
 
 2. 같은 폴더 안에 저장이 되어 있다면, 이미지와 같은 파일(final project.py)을 열어 게임을 실행하면 됩니다.
 
-<src ="https://user-images.githubusercontent.com/67683170/86303431-bd6d2200-bc46-11ea-9467-46e420c55a82.png">
+<img width = "200" src ="https://user-images.githubusercontent.com/67683170/86303431-bd6d2200-bc46-11ea-9467-46e420c55a82.png">
 
 1.시작 화면 : 
 ----------------
