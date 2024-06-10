@@ -1,18 +1,11 @@
 # Final-project_2020810067_전은진
-게임 프로그래밍 환경 : Visual Studio Code; Python 3.7(64-bit); Pygame 이용
-> 동일한 환경에서 실행해주세요 
+게임 프로그래밍 환경 : PC(운영체제 상관없음)
 
 게임 실행 준비 : 
 --------------
-0. final-project에 올라가 있는 python 폴더를 다운받아야 합니다.
+1. final-project에 올라가 있는 python/dist 폴더 안에 main.exe 실행파일을 다운받아야 합니다.
 
-1. 게임 내에 필요한 파일들이 많습니다. 꼭 코드 파일과 같은 폴더 안에 다같이 저장되어있는지 확인해주세요
-![image](https://user-images.githubusercontent.com/67683170/86439896-6a799480-bd44-11ea-8830-5c35bce29481.png)
-> 위 사진에 있는 파일이 모두 있어야 됩니다. 
-
-2. 같은 폴더 안에 저장이 되어 있다면, 이미지와 같은 파일(final project.py)을 열어 게임을 실행하면 됩니다.
-
-<img width = "200" src ="https://user-images.githubusercontent.com/67683170/86303431-bd6d2200-bc46-11ea-9467-46e420c55a82.png">
+2. 다운 받은 main.exe 파일을 실행시키면 됩니다. 
 
 1.시작 화면 : 
 ----------------
